@@ -1,7 +1,7 @@
 <!-- Profile readme file-->
 
 <h3 align="left">
-        <samp> Mridhul V. M. - <a href="https://github.com/mridhulvm">@mridhulvm</a>
+        <samp> Mridhul V. M. -- <a href="https://github.com/mridhulvm">@mridhulvm</a>
         </samp>
 </h3>
 
@@ -39,14 +39,28 @@
 </p>
 
 <details align="left">
-    <summary> <samp>More</samp></summary>
+    <summary> <samp>More:</samp></summary>
     <p align="left">
     <br>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,aws,bash,figma,linux,mongodb,mysql,nginx,postgres,redis,rabbitmq,sqlite,heroku,postman,vscode&perline=15)]()
+        <ul>
+        <li>C++</li>
+        <li>AWS</li>
+        <li>Bash</li>
+        <li>Figma</li>
+        <li>Nginx</li>
+        <li>Postgres</li>
+        <li>Redis</li>
+        <li>Rabbitmq</li>
+        <li>SQLite</li>
+        <li>Heroku</li>
+        </ul>
     <br>
+    </p>
+</details>
+<br>
+<p align="left">
         <!-- Social Links -->
-        <p>Get in touch</p>
+        <samp>Get in touch</samp>
         <!-- Mail -->
         <a href="mailto:contact.mridhul@gmail.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -55,6 +69,4 @@
         <a href="https://www.linkedin.com/in/mridhulvm" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-    </p>
-</details>
-<br>
+</p>
