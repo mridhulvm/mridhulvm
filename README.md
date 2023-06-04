@@ -12,7 +12,7 @@
         <!-- Intro -->
         <samp>
                 <ul>
-                <li>software developer from <b>Kerala<br></li>
+                <li>software developer from Kerala</li>
                 <li>focused on creating impactful web applications that improve lives</li>
                 <li>hands on</li>
                     <ul>
