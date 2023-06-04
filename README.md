@@ -8,7 +8,6 @@
 <p align="left">
         <!-- Intro -->
         <samp>
-                <br>
                 Intro:
                 <br>
                 <ul>
