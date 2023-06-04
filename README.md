@@ -1,17 +1,15 @@
 <!-- Profile readme file-->
 
 <h3 align="left">
-        <samp>&gt; Hey There! 👋, I am <b>Mridhul</b></a>
+        <samp> Mridhul V. M. - <a href="https://github.com/mridhulvm">@mridhulvm</a>
         </samp>
 </h3>
 
 <p align="left">
         <!-- Intro -->
         <samp>
-                <b>Intro:</b>
+                I'm a Software Engineer from Kerala with passion for problem solving, coding and self improvement. The experience my work has helped me learn various technologies and improved my several aspects.
                 <ul>
-                <li>Software developer from Kerala</li>
-                <li>Focused on creating impactful web applications that improve lives</li>
                 <li>Hands on:</li>
                     <ul>
                     <li>Python</li>
@@ -21,6 +19,7 @@
                     <li>SQL</li>
                     <li>UNIX shell scripting </li>
                     <li>RESTful API</li>
+                    <li>C</li>
                     </ul>
                 </ul>
         </samp>
@@ -47,7 +46,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,aws,bash,figma,linux,mongodb,mysql,nginx,postgres,redis,rabbitmq,sqlite,heroku,postman,vscode&perline=15)]()
     <br>
         <!-- Social Links -->
-        <p>Find me on</p>
+        <p>Get in touch</p>
         <!-- Mail -->
         <a href="mailto:contact.mridhul@gmail.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
