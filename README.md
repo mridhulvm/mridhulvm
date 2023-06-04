@@ -1,25 +1,25 @@
 <!-- Profile readme file-->
 
-> Who I am.
-
 <h3 align="left">
-        <samp>&gt; Hey There! 👋, I am
-                <b><a target="_blank" href="https://github.com/mridhulvm">Mridhul</a></b>
+        <samp>&gt; Hey There! 👋, I am <b>Mridhul</b></a>
         </samp>
 </h3>
 
 <p align="left">
         <!-- Intro -->
         <samp>
+                <br>
+                Intro:
+                <br>
                 <ul>
-                <li>software developer from Kerala</li>
-                <li>focused on creating impactful web applications that improve lives</li>
-                <li>hands on</li>
+                <li>Software developer from Kerala</li>
+                <li>Focused on creating impactful web applications that improve lives</li>
+                <li>Hands on:</li>
                     <ul>
-                    <li>python</li>
-                    <li>fastAPI</li>
-                    <li>django</li>
-                    <li>mongoDB</li>
+                    <li>Python</li>
+                    <li>FastAPI</li>
+                    <li>Django</li>
+                    <li>ongoDB</li>
                     <li>SQL</li>
                     <li>UNIX shell scripting </li>
                     <li>RESTful API</li>
