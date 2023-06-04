@@ -8,8 +8,7 @@
 <p align="left">
         <!-- Intro -->
         <samp>
-                Intro:
-                <br>
+                <b>Intro:</b>
                 <ul>
                 <li>Software developer from Kerala</li>
                 <li>Focused on creating impactful web applications that improve lives</li>
@@ -18,7 +17,7 @@
                     <li>Python</li>
                     <li>FastAPI</li>
                     <li>Django</li>
-                    <li>ongoDB</li>
+                    <li>MongoDB</li>
                     <li>SQL</li>
                     <li>UNIX shell scripting </li>
                     <li>RESTful API</li>
