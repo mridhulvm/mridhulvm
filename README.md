@@ -13,6 +13,7 @@
                     <li>Python</li>
                     <li>FastAPI</li>
                     <li>Django</li>
+                    <li>Celery</li>        
                     <li>MongoDB</li>
                     <li>SQL</li>
                     <li>UNIX shell scripting </li>
